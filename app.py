@@ -1,3 +1,3 @@
-print("hello world")
-print("additional value")
-a=32
+a = 15
+b = 2
+print(a+b)
